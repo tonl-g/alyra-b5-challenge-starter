@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Blog Template</title>
+    <title>Contact | Alyra Mag</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <link
@@ -36,8 +36,6 @@
         font-weight: 300;
       }
     </style>
-    <!-- Theme Style -->
-    <link rel="stylesheet" href="css/style1.css" />
   </head>
 
   <body>
@@ -67,35 +65,32 @@
         </div>
       </header>
       <nav
-        class="navbar navbar-expand-md navbar-light bg-light sticky-top mb-4"
+        class="navbar navbar-expand-sm navbar-light bg-light sticky-top mb-4"
       >
         <div class="container">
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarMenu"
+            aria-controls="navbarMenu"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
           <div class="collapse navbar-collapse" id="navbarMenu">
             <ul class="navbar-nav mx-auto">
               <li class="nav-item">
-                <a class="nav-link active" href="index.html">Home</a>
+                <a class="nav-link" href="index.html">Home</a>
               </li>
 
               <li class="nav-item">
-                <a
-                  class="nav-link"
-                  href="category.html"
-                  id="dropdown04"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                  >Travel</a
-                >
+                <a class="nav-link" href="category.html">Travel</a>
               </li>
 
               <li class="nav-item dropdown">
-                <a
-                  class="nav-link active dropdown-toggle"
-                  href="category.html"
-                  id="dropdown05"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
+                <a class="nav-link active dropdown-toggle" href="category.html"
                   >Categories</a
                 >
                 <div class="dropdown-menu" aria-labelledby="dropdown05">
@@ -107,7 +102,7 @@
                 </div>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link active" href="contact.html">Contact</a>
               </li>
             </ul>
           </div>
@@ -120,7 +115,7 @@
         <!-- END section -->
 
         <div class="row blog-entries">
-          <div class="col-md-12 col-lg-9 main-content">
+          <div class="col-md-12 col-lg-9 main-content mb-4">
             <article class="p-5 shadow">
               <img
                 src="images/big_image_1.jpg"
@@ -139,15 +134,25 @@
               <form action="#" method="post">
                 <div class="row">
                   <div class="col-md-12 form-group mb-3">
-                    <label for="name">Name</label>
-                    <input type="text" id="name" class="form-control" />
+                    <label for="name">Name*</label>
+                    <input
+                      type="text"
+                      id="name"
+                      class="form-control"
+                      required
+                    />
                   </div>
                   <div class="col-md-12 form-group mb-3">
                     <label for="phone">Phone</label>
-                    <input type="text" id="phone" class="form-control" />
+                    <input
+                      type="text"
+                      id="phone"
+                      class="form-control"
+                      required
+                    />
                   </div>
                   <div class="col-md-12 form-group mb-3">
-                    <label for="email">Email</label>
+                    <label for="email">Email*</label>
                     <input type="email" id="email" class="form-control" />
                   </div>
                 </div>
