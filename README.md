@@ -4,6 +4,19 @@
 
 Screenshots et video - dans le dossier screenshots
 
+Il y a 4 pages à mettre en place
+
+- home (index.html)
+- category (category.html)
+- contact (contact.html)
+- page de blog (blog-single.html)
+
+Navigation et liens devraient fonctionner.
+
+Tous le posts pointent vers la même page blog-single.html
+
+Toutes les catégories pointent vers la même page category,html
+
 ### Polices (google fonts)
 
 Baskerville: 700
