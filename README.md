@@ -19,8 +19,8 @@ Toutes les catégories pointent vers la même page category,html
 
 ### Polices (google fonts)
 
-Baskerville: 700
-Montserrat: 300
+- Baskerville: 700
+- Montserrat: 300
 
 (Ce sont les seuls styles que vous devez mettre en place en tant que custom styles,
 le reste est joueable avec les classes bootstrap)
