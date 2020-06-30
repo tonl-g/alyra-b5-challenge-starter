@@ -1,4 +1,4 @@
-# alyra-bootstrap-challenge
+# Alyra Bootstrap Challenge
 
 ### Référence
 
@@ -11,11 +11,11 @@ Il y a 4 pages à mettre en place
 - contact (contact.html)
 - page de blog (blog-single.html)
 
-Navigation et liens devraient fonctionner.
+Navigation principale et les liens devraient fonctionner.
 
-Tous le posts pointent vers la même page blog-single.html
+Tous le posts pointent vers la même page blog-single.html.
 
-Toutes les catégories pointent vers la même page category,html
+Toutes les catégories pointent vers la même page category.html.
 
 ### Polices (google fonts)
 
@@ -23,22 +23,22 @@ Toutes les catégories pointent vers la même page category,html
 - Montserrat: 300
 
 (Ce sont les seuls styles que vous devez mettre en place en tant que custom styles,
-le reste est joueable avec les classes bootstrap)
+le reste est joueable avec les classes bootstrap).
 
-## 🚀Validation
+## 🚵‍♀️ Validation
 
-"Proprété du code" - code est lisible, indentation correcte, espacèments, commentaires si nécessaires **🦐🐟🦈**
+"Proprété du code" - code est lisible, indentation correcte, espacèments, commentaires si nécessaires **👟🛴🚲**
 
-HTML valide (utiliser validateur w3c) **🦐🐟🦈**
+HTML valide (utiliser validateur w3c) **👟🛴🚲**
 
-Utilisation des classes Bootstrap 5 (le css devrait être utlisé au minimum ) **🦐🐟🦈**
+Utilisation des classes Bootstrap5 (le css devrait être utlisé au minimum ) **👟🛴🚲**
 
-Structure du site est respecté **🦐🐟🦈**
+Structure du site est respecté **👟🛴🚲**
 
-Menu de navigation (responsive + dropdown fonctionnent) **🦐🐟🦈**
+Menu de navigation (responsive + dropdown fonctionnent) **👟🛴🚲**
 
-Adaptation aux écrans mobiles **🦐🐟🦈**
+Adaptation aux écrans mobiles **👟🛴🚲**
 
-Le design est respecté **🦐🐟🦈**
+Le design est respecté **👟🛴🚲**
 
-Mise en place de la carousel Bootstrap 5 **🦐🐟🦈**
+Mise en place de la carousel Bootstrap5 **👟🛴🚲**
