@@ -25,6 +25,10 @@ Toutes les catégories pointent vers la même page, `category.html`.
 Ce sont les seuls styles que vous devez mettre en place en tant que custom styles,
 **le reste est joueable avec les classes bootstrap.**
 
+### Icônes
+
+AlyraMag utilise le kit fontawesome.
+
 ### Nouveaux éléments Bootstrap
 
 Au dèla de ce que nous avons vu ensemble, vous devez plonger dans la documentation de [bootstap 5](https://v5.getbootstrap.com/) pour trouver des nouveaux "componenets" ou "utilities" adapté à ce projet.
