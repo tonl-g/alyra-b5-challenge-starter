@@ -25,6 +25,18 @@ Toutes les catégories pointent vers la même page category.html.
 Ce sont les seuls styles que vous devez mettre en place en tant que custom styles,
 le reste est joueable avec les classes bootstrap.
 
+### Nouveaux éléments bootstrap
+
+Au dèla de ce que nous avons vu ensemble, vous devez plonger dans la documentation de [bootstap 5](https://v5.getbootstrap.com/) pour trouver des nouveaux "componenets" ou "utilities" adapté à ce projet.
+
+Quelques astuce :
+
+- [Carousel](https://v5.getbootstrap.com/docs/5.0/components/carousel/)
+- [List group](https://v5.getbootstrap.com/docs/5.0/components/list-group/)
+- [Shadows](https://v5.getbootstrap.com/docs/5.0/utilities/shadows/)
+- [Form controls](https://v5.getbootstrap.com/docs/5.0/forms/form-control/)
+- ...
+
 ## 🚵‍♀️ Validation
 
 "Proprété du code" - code est lisible, indentation correcte, espacèments, commentaires si nécessaires **👟🛴🚲**
