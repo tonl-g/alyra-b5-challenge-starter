@@ -27,7 +27,7 @@ Ce sont les seuls styles que vous devez mettre en place en tant que custom style
 
 ### Icônes
 
-AlyraMag utilise le kit fontawesome.
+Le site AlyraMag utilise le kit [fontawesome](https://fontawesome.com/), on particulier des icônes des réseaux sociaux dans la partie "sidebar".
 
 ### Nouveaux éléments Bootstrap
 
