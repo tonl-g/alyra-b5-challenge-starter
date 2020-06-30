@@ -2,9 +2,9 @@
 
 ### Référence
 
-Screenshots et video - dans le dossier screenshots
+Dans le dossier `screenshots` vous trouverez des captures d'écran et une video .mp4
 
-Il y a 4 pages à mettre en place
+Il y a **4 pages** à mettre en place :
 
 - home (index.html)
 - category (category.html)
@@ -13,9 +13,9 @@ Il y a 4 pages à mettre en place
 
 Navigation principale et les liens devraient fonctionner.
 
-Tous le posts pointent vers la même page blog-single.html.
+Tous le articles pointent vers la même page, `blog-single.html`.
 
-Toutes les catégories pointent vers la même page category.html.
+Toutes les catégories pointent vers la même page, `category.html`.
 
 ### Polices (google fonts)
 
@@ -23,9 +23,9 @@ Toutes les catégories pointent vers la même page category.html.
 - Montserrat: 300
 
 Ce sont les seuls styles que vous devez mettre en place en tant que custom styles,
-le reste est joueable avec les classes bootstrap.
+**le reste est joueable avec les classes bootstrap.**
 
-### Nouveaux éléments bootstrap
+### Nouveaux éléments Bootstrap
 
 Au dèla de ce que nous avons vu ensemble, vous devez plonger dans la documentation de [bootstap 5](https://v5.getbootstrap.com/) pour trouver des nouveaux "componenets" ou "utilities" adapté à ce projet.
 
@@ -54,3 +54,5 @@ Adaptation aux écrans mobiles **👟🛴🚲**
 Le design est respecté **👟🛴🚲**
 
 Mise en place de la carousel Bootstrap5 **👟🛴🚲**
+
+Bon courage ! 💪
