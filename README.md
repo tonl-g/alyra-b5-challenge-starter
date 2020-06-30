@@ -2,14 +2,14 @@
 
 ### Référence
 
-Dans le dossier `screenshots` vous trouverez des captures d'écran et une video .mp4
+Dans le dossier `screenshots` vous trouverez des captures d'écran et une video .mp4.
 
 Il y a **4 pages** à mettre en place :
 
-- home (index.html)
-- category (category.html)
-- contact (contact.html)
-- page de blog (blog-single.html)
+- home (`index.html`)
+- category (`category.html`)
+- contact (`contact.html`)
+- page de blog (`blog-single.html`)
 
 Navigation principale et les liens devraient fonctionner.
 
