@@ -41,22 +41,14 @@ Quelques astuce :
 - [Form controls](https://v5.getbootstrap.com/docs/5.0/forms/form-control/)
 - ...
 
-## 🚵‍♀️ Validation
+## Validation
 
-"Proprété du code" - code est lisible, indentation correcte, espacèments, commentaires si nécessaires **👟🛴🚲**
-
-HTML valide (utiliser validateur w3c) **👟🛴🚲**
-
-Utilisation des classes Bootstrap5 (le CSS devrait être utlisé au minimum ) **👟🛴🚲**
-
-Structure du site est respectée **👟🛴🚲**
-
-Menu de navigation (responsive) **👟🛴🚲**
-
-Adaptation aux écrans mobiles **👟🛴🚲**
-
-Le design est respecté au maximum **👟🛴🚲**
-
-Mise en place de la carousel Bootstrap5 **👟🛴🚲**
+"Structure du site respectée (/5)"  
+"Proprété du code (/3)"  
+"Menu de navigation (responsive + dropdown) (/3)"  
+"Sémantique HMTL valide Utiliser validateur W3C (/2)"  
+ "Mise en place du carousel Bootstrap5 (/2)"  
+"Adaptation aux écrans mobiles (/2)"  
+ "Le design est respecté (/3)"  
 
 Bon courage ! 💪
