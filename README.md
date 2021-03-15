@@ -27,7 +27,7 @@ Ce sont les seuls styles que vous devez mettre en place en tant que custom style
 
 ### Icônes
 
-Le site AlyraMag utilise le kit [fontawesome](https://fontawesome.com/), on particulier des icônes des réseaux sociaux dans la partie "sidebar".
+Vous pouvez utiliser des icônes Bootstrap (format SVG)
 
 ### Nouveaux éléments Bootstrap
 
@@ -47,15 +47,15 @@ Quelques astuce :
 
 HTML valide (utiliser validateur w3c) **👟🛴🚲**
 
-Utilisation des classes Bootstrap5 (le css devrait être utlisé au minimum ) **👟🛴🚲**
+Utilisation des classes Bootstrap5 (le CSS devrait être utlisé au minimum ) **👟🛴🚲**
 
-Structure du site est respecté **👟🛴🚲**
+Structure du site est respectée **👟🛴🚲**
 
-Menu de navigation (responsive + dropdown fonctionnent) **👟🛴🚲**
+Menu de navigation (responsive) **👟🛴🚲**
 
 Adaptation aux écrans mobiles **👟🛴🚲**
 
-Le design est respecté **👟🛴🚲**
+Le design est respecté au maximum **👟🛴🚲**
 
 Mise en place de la carousel Bootstrap5 **👟🛴🚲**
 
