@@ -43,12 +43,12 @@ Quelques astuce :
 
 ## Validation
 
-"Structure du site respectée (/5)"  
-"Proprété du code (/3)"  
-"Menu de navigation (responsive + dropdown) (/3)"  
-"Sémantique HMTL valide Utiliser validateur W3C (/2)"  
- "Mise en place du carousel Bootstrap5 (/2)"  
-"Adaptation aux écrans mobiles (/2)"  
- "Le design est respecté (/3)"  
+Structure du site respectée (/5)    
+Proprété du code (/3)    
+Menu de navigation (responsive + dropdown) (/3)    
+Sémantique HMTL valide Utiliser validateur W3C (/2)    
+Mise en place du carousel Bootstrap5 (/2)    
+Adaptation aux écrans mobiles (/2)  
+Le design est respecté (/3)  
 
 Bon courage ! 💪
