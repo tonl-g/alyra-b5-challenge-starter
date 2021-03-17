@@ -5,3 +5,7 @@
 ul li {
   list-style: none;
 }
+
+.bg-text-carousel {
+  background-color: #343a40;
+}
